@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Creative Project**
 
-- 💬 Ask me about **JS, React**
+- 💬 Ask me about **HTML, CSS, JS and React.js**
 
 - 📫 How to reach me **aljabri606@gmail.com**
 
