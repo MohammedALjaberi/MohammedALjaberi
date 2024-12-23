@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **React.js**
 
-- 🌱 I’m currently  **Delve more into React**
-
 - 👯 I’m looking to collaborate on **Creative Project**
 
 - 💬 Ask me about **HTML, CSS, JS and React.js**
