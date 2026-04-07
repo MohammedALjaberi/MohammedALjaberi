@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Al-jaberi</h1>
-<h3 align="center">A passionate Front-end Developer from Yemen 🇾🇪</h3>
+<h3 align="center">A passionate Front-end Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammedaljaberi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
